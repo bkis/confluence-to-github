@@ -95,7 +95,7 @@
 <!ENTITY num "&#35;">
 <!ENTITY dollar "&#36;">
 <!ENTITY percnt "&#37;">
-<!ENTITY amp "&">
+<!ENTITY amp "&#38;">
 <!ENTITY apos "&#39;">
 <!ENTITY lpar "&#40;">
 <!ENTITY rpar "&#41;">
@@ -151,8 +151,8 @@
 <!ENTITY scaron "&#353;">
 <!ENTITY Yuml "&#376;">
 <!ENTITY fnof "&#402;">
-<!ENTITY circ "ˆ">
-<!ENTITY tilde "˜">
+<!ENTITY circ "&#710;">
+<!ENTITY tilde "&#732;">
 <!ENTITY Alpha "&#913;">
 <!ENTITY Beta "&#914;">
 <!ENTITY Gamma "&#915;">
