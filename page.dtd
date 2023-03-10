@@ -102,7 +102,6 @@
 <!ENTITY ast "&#42;">
 <!ENTITY plus "&#43;">
 <!ENTITY comma "&#44;">
-<!ENTITY minus "&#45;">
 <!ENTITY period "&#46;">
 <!ENTITY sol "&#47;">
 <!ENTITY colon "&#58;">
@@ -138,7 +137,6 @@
 <!ENTITY plusmn "&#177;">
 <!ENTITY acute "&#180;">
 <!ENTITY micro "&#181;">
-<!ENTITY para "&#182;">
 <!ENTITY middot "&#183;">
 <!ENTITY cedil "&#184;">
 <!ENTITY ordm "&#186;">
